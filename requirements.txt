@@ -1,29 +1,12 @@
-Flask==1.1.2
-gensim==3.8.3
-glob2==0.7
-gmpy2==2.1.0b1
+Flask==1.1.1
+gunicorn==19.9.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
-Keras==2.4.3
-Keras-Preprocessing==1.1.2
+Jinja2==2.10.1
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-pandas @ file:///C:/ci/pandas_1602083338010/work
-pathlib2==2.3.5
-pickleshare==0.7.5
-scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
-scipy @ file:///C:/ci/scipy_1604596260408/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
-smmap==3.0.4
-snowballstemmer==2.0.0
-Sphinx @ file:///tmp/build/80754af9/sphinx_1597428793432/work
-tensorflow==2.4.0
-tensorflow-estimator==2.4.0
-Werkzeug==1.0.1
-wordcloud==1.8.1
-wrapt==1.12.1
-xgboost==1.2.1
-XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1602692860603/work
+Werkzeug==0.15.5
+nltk==3.5
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
