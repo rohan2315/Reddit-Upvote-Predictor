@@ -1,12 +1,29 @@
-Flask==1.1.1
-gunicorn==19.9.0
+Flask==1.1.2
+GitPython==3.1.11
+glob2==0.7
 itsdangerous==1.1.0
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
-nltk==3.5
-numpy>=1.9.2
-scipy>=0.15.1
-scikit-learn>=0.18
-matplotlib>=1.4.3
-pandas>=0.19
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+regex @ file:///C:/ci/regex_1602770567298/work
+scikit-image==0.17.2
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1604596260408/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+spyder @ file:///C:/ci/spyder_1599054115447/work
+spyder-kernels @ file:///C:/ci/spyder-kernels_1599051709837/work
+tensorflow==2.4.0
+tensorflow-estimator==2.4.0
+Werkzeug==1.0.1
+wordcloud==1.8.1
+xgboost==1.2.1
+XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1602692860603/work
+
